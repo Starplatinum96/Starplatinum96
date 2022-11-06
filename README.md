@@ -1,8 +1,8 @@
-[![Header](https://github.com/Starplatinum96/Starplatinum96/blob/main/assets/Frame%20635%20(3).png)]
+[![Header](https://github.com/Starplatinum96/Starplatinum96/blob/main/assets/header.gif)]
 # Hello there!
 ## I'm a QA Automation Engineer
 ### My CV
-[Link to my CV]()
+[Link to my CV](https://drive.google.com/file/d/1Cct02ijnEXyZ_ve_bddee18jsHFlsafH/view?usp=sharing)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=ffdd54)

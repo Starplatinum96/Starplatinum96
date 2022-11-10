@@ -1,4 +1,6 @@
-[![Header](https://github.com/Starplatinum96/Starplatinum96/blob/main/assets/header.gif)]
+<p align="center">
+    <img width="200" src="https://github.com/Starplatinum96/Starplatinum96/blob/main/assets/header.gif" alt="Material Bread logo">
+</p>
 # Hello there!
 ## I'm a QA Automation Engineer
 ### My CV

@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/Starplatinum96/Starplatinum96/blob/main/assets/header.gif" alt="Material Bread logo">
+    <img width="500" src="https://github.com/Starplatinum96/Starplatinum96/blob/main/assets/header.gif" alt="Material Bread logo">
 </p>
 <h1>Hello there!</h1>
 <h2>I'm a QA Automation Engineer</h2>

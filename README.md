@@ -1,10 +1,9 @@
 <p align="center">
-    <img width="400" src="https://github.com/Starplatinum96/Starplatinum96/blob/main/assets/header.gif" alt="Material Bread logo">
+    <img width="200" src="https://github.com/Starplatinum96/Starplatinum96/blob/main/assets/header.gif" alt="Material Bread logo">
 </p>
-# Hello there!
-## I'm a QA Automation Engineer
-### My CV
-[Link to my CV](https://drive.google.com/file/d/1Cct02ijnEXyZ_ve_bddee18jsHFlsafH/view?usp=sharing)
+<h1>Hello there!</h1>
+<h2>I'm a QA Automation Engineer</h2>
+<h3><a href="https://drive.google.com/file/d/1Cct02ijnEXyZ_ve_bddee18jsHFlsafH/view?usp=sharing">My CV</a></h3>
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=ffdd54)
